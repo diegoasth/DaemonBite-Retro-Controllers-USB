@@ -23,5 +23,7 @@ This project is licensed under the GNU General Public License v3.0. The name "da
 ## Credits
 The Mega Drive gamepad interface is based on this repository : https://github.com/jonthysell/SegaController but almost entirely rewritten and a lot of optimisations have been made.
 
+<https://www.youtube.com/watch?v=-2X5qvRBnpY>
+
 <img width="561" height="609" alt="image" src="https://github.com/user-attachments/assets/3b02e673-1374-4617-9d42-c2ea23e9a2d9" />
 
