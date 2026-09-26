@@ -25,5 +25,4 @@ The Mega Drive gamepad interface is based on this repository : https://github.co
 
 <https://www.youtube.com/watch?v=-2X5qvRBnpY>
 
-<img width="561" height="609" alt="image" src="https://github.com/user-attachments/assets/3b02e673-1374-4617-9d42-c2ea23e9a2d9" />
-
+<img width="2412" height="881" alt="image" src="https://github.com/user-attachments/assets/b135bad8-a38f-4493-9c8e-3294c73ee432" />
