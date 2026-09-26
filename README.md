@@ -26,3 +26,11 @@ The Mega Drive gamepad interface is based on this repository : https://github.co
 <https://www.youtube.com/watch?v=-2X5qvRBnpY>
 
 <img width="2412" height="881" alt="image" src="https://github.com/user-attachments/assets/b135bad8-a38f-4493-9c8e-3294c73ee432" />
+
+<https://retropie.org.uk/forum/topic/4938/confused-about-controller-mapping/4>
+
+<img width="1765" height="850" alt="image" src="https://github.com/user-attachments/assets/8e562eb1-c514-4c4f-a77c-505505b6ba47" />
+
+<img width="1579" height="729" alt="image" src="https://github.com/user-attachments/assets/2c28ba2e-45ae-4ca9-aeaa-09de13f82641" />
+
+
